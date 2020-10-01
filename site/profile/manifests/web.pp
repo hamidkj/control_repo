@@ -1,3 +1,3 @@
 calss profile::web{
-  inclide nginx
+  include nginx
  }
