@@ -1,0 +1,2 @@
+class prfile::db {
+}
