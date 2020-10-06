@@ -1,2 +1,2 @@
-class prfile::db {
+class profile::db {
 }
